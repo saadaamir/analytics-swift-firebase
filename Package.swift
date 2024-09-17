@@ -28,7 +28,7 @@ let package = Package(
 		.package(
 			name: "Firebase",
 			url: "https://github.com/akaffenberger/firebase-ios-sdk-xcframeworks.git",
-            .exact("10.23.0")
+            .exact("11.2.0")
 		)
     ],
     targets: [

@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/akaffenberger/firebase-ios-sdk-xcframeworks.git",
         "state": {
           "branch": null,
-          "revision": "da12c5c1b302104f638210cfed8ffe6fed639b3f",
-          "version": "10.23.0"
+          "revision": "d3c04402036b8cfc08481344680f83e40c70856d",
+          "version": "11.2.0"
         }
       },
       {
